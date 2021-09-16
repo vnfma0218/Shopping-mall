@@ -1,4 +1,4 @@
-# FUNITURE ShoppingMall
+# FURNITURE ShoppingMall
 
 ![FURNITURE](https://awesomescreenshot.s3.amazonaws.com/image/2479729/13529634-f7facdfc3f0eb9aa7210167564c88a05.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20210916%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210916T052935Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=cd277e3c3590b89409c42a8d7bc6a823a5a50d2d14e53a839a5367c93f594baf)
 
