@@ -1,70 +1,27 @@
-# Getting Started with Create React App
+# FUNITURE ShoppingMall
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![FURNITURE](https://awesomescreenshot.s3.amazonaws.com/image/2479729/13529634-f7facdfc3f0eb9aa7210167564c88a05.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20210916%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210916T052935Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=cd277e3c3590b89409c42a8d7bc6a823a5a50d2d14e53a839a5367c93f594baf)
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 1. 프로젝트 소개
 
-### `yarn start`
+쇼핑몰 [click here](https://todo-28bff.web.app)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+React, Firebase를 이용하여 간단한 기능의 가구 쇼핑몰 구현
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 2. 사용기술 스택
 
-### `yarn test`
+React, Firebase, Material UI
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 3. 구현 기능
 
-### `yarn build`
+- Firebase의 auth를 이용한 회원가입 및 로그인 기능
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- 관리자의 상품 등록 및 수정, 삭제의 관리 기능
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- 제품 리뷰 작성 및 별점 등록, 장바구니 추가 기능
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- 장바구니 담기, 장바구니 페이지 내 상품 수량 변경, 상품 선택 및 삭제, 선택상품의 금액 계산 기능, 상품 구매는 Firebase 내 데이터로만 관리되도록 구현함
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- 모든제품 페이지 내 상품 정렬(가격순, 등록순) 및 검색 기능
